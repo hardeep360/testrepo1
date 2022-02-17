@@ -292,14 +292,14 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20220203T110000
 DTEND;TZID=Europe/Berlin:20220203T160000
 DTSTAMP:20220216T101759Z
-DESCRIPTION:Lorem ä, ö, ü Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#039\;s standard dummy text ever since the 1500s, rexx@rexx-systems.de when an unknown printer took a galley of type and https://google.com scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of  &lt\;br  /&gt\;Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Test &lt\;b&gt\;Hello&lt\;/b&gt\;
+DESCRIPTION:try try try Lorem ä, ö, ü Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#039\;s standard dummy text ever since the 1500s, rexx@rexx-systems.de when an unknown printer took a galley of type and https://google.com scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of  &lt\;br  /&gt\;Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Test &lt\;b&gt\;Hello&lt\;/b&gt\;
 
 Metadata
 A utility class containing maps of every HTML 4.01 character entity, including ASCII and hex codes, and methods to encode/decode strings with those character entities.
 
 Repository (GitHub)
 View/report issues\nDatum: 03.02.2022\nUhrzeit: 11:00 - 16:00
-SUMMARY:Jessica Biel - total 3 day event ä, ö, ü 3 day event 3 day event 3 day event 3 day event 3 day event
+SUMMARY:Jessica Biel - Almost 5 day event ä, ö, ü 3 day event 3 day event 3 day event 3 day event 3 day event
 UID:bbbd4eba5c6ae1baafc5ffff0405da21
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-REXX-EVENT:TRUE
